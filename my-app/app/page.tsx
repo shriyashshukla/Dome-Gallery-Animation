@@ -4,8 +4,8 @@ export default function App() {
     <div style={{ width: '100vw', height: '100vh' }}>
       <DomeGallery
   fit={0.8}
-  minRadius={1500}
-  maxVerticalRotationDeg={22}
+  minRadius={1250}
+  maxVerticalRotationDeg={12}
   segments={34}
   dragDampening={2}
   grayscale
